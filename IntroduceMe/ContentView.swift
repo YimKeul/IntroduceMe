@@ -18,7 +18,7 @@ struct ContentView: View {
                 .tabItem {
                     Label("2번", systemImage: "book")
                 }
-            Text("3번 화면")
+            FavoriteView()
                 .tabItem {
                     Label("3번", systemImage: "star")
                 }
