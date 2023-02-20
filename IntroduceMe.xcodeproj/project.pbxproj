@@ -11,6 +11,7 @@
 		865E033C29A278C50060EC83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 865E033B29A278C50060EC83 /* ContentView.swift */; };
 		865E033E29A278C60060EC83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 865E033D29A278C60060EC83 /* Assets.xcassets */; };
 		865E034129A278C60060EC83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 865E034029A278C60060EC83 /* Preview Assets.xcassets */; };
+		86D1E54729A31CBB006B9814 /* PersonalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D1E54629A31CBB006B9814 /* PersonalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		865E033B29A278C50060EC83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		865E033D29A278C60060EC83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		865E034029A278C60060EC83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		86D1E54629A31CBB006B9814 /* PersonalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				865E033929A278C50060EC83 /* IntroduceMeApp.swift */,
 				865E033B29A278C50060EC83 /* ContentView.swift */,
+				86D1E54629A31CBB006B9814 /* PersonalView.swift */,
 				865E033D29A278C60060EC83 /* Assets.xcassets */,
 				865E033F29A278C60060EC83 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86D1E54729A31CBB006B9814 /* PersonalView.swift in Sources */,
 				865E033C29A278C50060EC83 /* ContentView.swift in Sources */,
 				865E033A29A278C50060EC83 /* IntroduceMeApp.swift in Sources */,
 			);
