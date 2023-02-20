@@ -14,7 +14,7 @@ struct ContentView: View {
                 .tabItem {
                     Label("프로필", systemImage: "person.crop.circle.fill")
                 }
-            Text("2번 화면")
+            StoryView()
                 .tabItem {
                     Label("2번", systemImage: "book")
                 }
